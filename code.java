@@ -1,3 +1,4 @@
+// Manar Turki - 445006780
 //----------------------------------------------------------------------------------------------
 
 // Java code for linearly search x in arr[]. If x
@@ -40,11 +41,11 @@ class LinearSearch {
 
             {
 
-                        int[] arr = { 3, 4, 1, 7, 5 };
+                        int[] arr = { 3, 4, 1, 7, 5;
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 2;
 
                         int index = search(arr, n, x);
 
